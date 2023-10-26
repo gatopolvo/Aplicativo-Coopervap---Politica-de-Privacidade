@@ -1,0 +1,1 @@
+# Aplicativo-Coopervap---Politica-de-Privacidade
