@@ -1,7 +1,6 @@
 # Aplicativo-Coopervap---Politica-de-Privacidade
 **Política de Privacidade - Aplicativo de Consulta de Saldos e Geração de Relatórios**
 
-**Data de Entrada em Vigor: [Inserir data de entrada em vigor]**
 
 Agradecemos por escolher o Aplicativo Coopervap. Esta Política de Privacidade destina-se a fornecer informações sobre como tratamos seus dados quando você utiliza nossos serviços.
 
